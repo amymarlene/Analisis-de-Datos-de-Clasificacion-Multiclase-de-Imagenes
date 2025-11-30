@@ -28,11 +28,6 @@ Este repositorio incluye:
   - Conversión a tensores
   - Preparación para redes neuronales (PyTorch / TensorFlow)
 - Aumento de datos (Data Augmentation)
-- 
-> **Nota:**  
-> GitHub no permite archivos individuales mayores a 25MB.  
-> Si el dataset pesa más, usa Google Drive o Git LFS.  
-> Puedes incluir un enlace al dataset en la sección siguiente.
 
 ---
 
@@ -40,6 +35,7 @@ Este repositorio incluye:
 
 Debido al tamaño del dataset, no se incluye directamente en el repositorio.  
 Puedes descargarlo desde:
+https://drive.google.com/file/d/1mML0Tm4_F_I__uQ4xYWOKDm5Z5u6yBmq/view?usp=sharing
 
 🔗 **Enlace a Google Drive:**  
 *Añade aquí tu enlace cuando lo tengas*  
